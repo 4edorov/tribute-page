@@ -1,0 +1,39 @@
+.container {
+  margin-top: 50px;
+}
+.container-1 {
+  background-color: black;
+  border-radius: 10px;
+  padding: 25px;
+}
+.header {
+ text-align: center; 
+}
+.c-text {
+  color: grey;
+}
+.wrc-border {
+  margin: auto;
+  border: solid 2px white;
+  background-color: white;
+  border-radius: 5px;
+}
+.wrc-photo {
+  display: block;
+  max-width: 100%;
+  max-height: 100%;
+}
+.widet {
+  text-align: justify;
+}
+.time-line {
+  max-width: 700px;
+  margin: auto;
+}
+.years {
+  font-weight: 900;
+  color: grey;
+}
+.time-text {
+  color: white;
+}
